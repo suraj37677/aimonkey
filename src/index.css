@@ -1,0 +1,38 @@
+.tag{
+  background-color:orangered; 
+  color: azure;
+border: 1px solid violet;
+z-index: -1;
+ box-sizing: border-box;
+ justify-content: center;
+ border-radius: 25px;
+ margin-left: auto;
+ 
+
+
+
+}
+#trok:hover{
+  background-color:black;
+  color: black;
+  cursor: pointer;
+
+}
+.tag-tree{
+
+display: flex;
+flex-wrap: wrap;
+float: left;
+margin: 12px;
+
+}
+.tag-header{
+  
+ margin: 12px;
+  margin-bottom: 23px;
+  justify-content: space-between;
+  width: 50%;
+  height: 50%; 
+ 
+}
+ 
